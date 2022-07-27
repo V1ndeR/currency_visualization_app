@@ -11,6 +11,7 @@ already requested, the data is stored in cache.
 
 Tech stack:\
 React\
+useQuery\
 [Plotly](https://plotly.com/javascript/)\
 Exchange Rates Data API ([https://exchangeratesapi.io/](https://apilayer.com/marketplace/exchangerates_data-api#details-tab))
 
